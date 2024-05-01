@@ -2,4 +2,6 @@ Rencana Konten HW
 
 - Daily Software Developer
 - Javascript
+ - ES6
+ - FRAMEWORK JS
 - PHP Framework
