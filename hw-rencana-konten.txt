@@ -5,3 +5,4 @@ Rencana Konten HW
  - ES6
  - FRAMEWORK JS
 - PHP Framework
+- Laravel
