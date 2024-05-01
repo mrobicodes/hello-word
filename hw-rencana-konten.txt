@@ -4,5 +4,6 @@ Rencana Konten HW
 - Javascript
  - ES6
  - FRAMEWORK JS
+   - react
 - PHP Framework
 - Laravel
